@@ -1,3 +1,3 @@
 # unity game
  
-![Alt text](Capture.png)
+![Alt text](Capture.PNG)
